@@ -12,8 +12,8 @@ Click [here](https://github.com/Mr-vabs) to see my profile.
 
 `here are the list of my work`
 
-- [Apps](https://mr-vabs.github.io/apps/) repository.
-- [FreeCodeCamp](https://mr-vabs.github.io/freecodecamp) Projects repository.
+- [Apps](https://github.com/Mr-vabs/apps) repository.
+- [FreeCodeCamp](https://github.com/Mr-vabs/FreeCodeCamp) Projects repository.
 - More will be adding soon.
 
 ----
