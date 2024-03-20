@@ -14,7 +14,7 @@ Click [here](https://github.com/Mr-vabs) to see my profile.
 - ***Random Anime App*** [[repo]](https://github.com/Mr-vabs/get-random-anime) [[live]](https://mr-vabs.github.io/get-random-anime/).
 - ***Fitness Landing Page*** [[repo]](https://github.com/Mr-vabs/fitness-website) [[live]](https://mr-vabs.github.io/fitness-website/).
 - ***App Landing React*** [[repo]](https://github.com/Mr-vabs/app-landing) [[live]](https://mr-vabs.github.io/app-landing/).
-- ***Recipe App*** [[repo]](https://github.com/Mr-vabs/RecipeApp) [[live]](ttps://mr-vabs.github.io/RecipeApp).
+- ***Recipe App*** [[repo]](https://github.com/Mr-vabs/RecipeApp) [[live]](https://mr-vabs.github.io/RecipeApp).
 - ***Bootstrap Website*** [[repo]](https://github.com/Mr-vabs/opsite) [[live]](https://mr-vabs.github.io/opsite/).
 - ***Dummy Website For Appointments*** [[repo]](https://github.com/Mr-vabs/vbtutes) [[live]](https://vebhv2vbtutes.pythonanywhere.com/).
 - ***Chat App Project [BaatKarlo]*** [[repo]](https://github.com/Mr-vabs/baatkarlo) [[live]](https://vebhvv.pythonanywhere.com/).
